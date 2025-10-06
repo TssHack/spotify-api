@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Spotify downloader API using fabdl.com service",
   "type": "module",
-  "main": "spotifyScraper.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
